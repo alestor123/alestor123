@@ -1,4 +1,5 @@
-##### Hi there, I'm Alestor 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=alestor123 alt=alestor123/> </p>
+<h1 align="center">##### Hi there, I'm Alestor </h1>
 #### A Normal Mortal Web Developer With Immortal Dreams
 ### I'm a Student Developer and an Enthusiast In Coding 
 - I'm a Self Taught Developer Who Is Passionate About His Work
