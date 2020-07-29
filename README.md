@@ -1,6 +1,6 @@
 ##### Hi there, I'm Alestor 
 #### A Normal Mortal Web Developer With Immortal Dreams
-### I'm a Student Developer and an enthusiast i coding 
+### I'm a Student Developer and an Enthusiast In Coding 
 - I'm a Self Taught Developer Who Is Passionate About His Work
 - I’m looking to collaborate with other Developers
 - Goals: Contribute more to Open Source projects
