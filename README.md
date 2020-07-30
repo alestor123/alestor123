@@ -1,4 +1,9 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=alestor123 alt=alestor123/> </p>
+
+<p align="center">
+    <img src="./assets/icon.svg">
+</p>
+
 <h1 align="center"> Hi there, I'm Alestor </h1>
 
 <h2 align="center"> A Normal Mortal Web Developer With Immortal Dreams</h2>
