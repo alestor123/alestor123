@@ -1,7 +1,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=alestor123 alt=alestor123/> </p>
 
 <p align="center">
-    <img src="./assets/icon.svg">
+    <img src="https://raw.githubusercontent.com/alestor123/alestor123/master/assets/icon.svg">
 </p>
 
 <h1 align="center"> Hi there, I'm Alestor </h1>
