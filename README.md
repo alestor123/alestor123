@@ -19,6 +19,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [HI every one Im ALestor ](https://dev.to/alestor123/hi-every-one-im-alestor-1nn9)
+- [Hello World](https://dev.to/alestor123/hello-world-m36)
 <!-- BLOG-POST-LIST:END -->
 
 
