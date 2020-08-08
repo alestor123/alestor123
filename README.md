@@ -16,6 +16,12 @@
 
 ### Connect with me:
 
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 [<img align="left" alt="alestor123 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
 
 ### My Stats:
