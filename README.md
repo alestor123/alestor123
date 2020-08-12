@@ -19,10 +19,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Should You Learn Bootstrap In 2020](https://dev.to/alestor123/should-you-learn-bootstrap-in-2020-14ln)
 - [Hi therer](https://dev.to/alestor123/hi-therer-5b2b)
-- [Hello This is my new posts](https://dev.to/alestor123/hello-this-is-my-new-posts-3djo)
-- [HI every one Im ALestor ](https://dev.to/alestor123/hi-every-one-im-alestor-1nn9)
-- [Hello World](https://dev.to/alestor123/hello-world-m36)
 <!-- BLOG-POST-LIST:END -->
 
 
