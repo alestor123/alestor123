@@ -19,6 +19,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Console Log Every Where](https://dev.to/alestor123/console-log-every-where-35hc)
 - [Should You Learn Bootstrap In 2020](https://dev.to/alestor123/should-you-learn-bootstrap-in-2020-14ln)
 - [Hi therer](https://dev.to/alestor123/hi-therer-5b2b)
 <!-- BLOG-POST-LIST:END -->
