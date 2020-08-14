@@ -1,42 +1,41 @@
-1. 🗣 Commented on [#8871](https://github.com//nodejs/node/issues/8871) in [nodejs/node](https://github.com//nodejs/node)
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=alestor123 alt=alestor123/> </p>
 
-2. 🗣 Commented on [#3768](https://github.com//reduxjs/redux/issues/3768) in [reduxjs/redux](https://github.com//reduxjs/redux)
-3. undefined
-4. undefined
+<p align="center">
+    <img src="https://raw.githubusercontent.com/alestor123/alestor123/master/assets/icon.svg">
+</p>
 
-5. undefined
+<h1 align="center"> Hi there, I'm Alestor </h1>
 
-6. undefined
+<h2 align="center"> A Normal Mortal Web Developer With Immortal Dreams</h2>
 
-7. undefined
-8. undefined
-9. undefined
-10. undefined
-11. undefined
+### I'm a Student Developer and an Enthusiast In Coding 
+- I'm a Self Taught Developer Who Is Passionate About His Work
+- I’m looking to collaborate with other Developers
+- Goals: Contribute more to Open Source projects
+- Having Fun In :  Coding , Electronics  , Badminton
 
-12. undefined
-
-
-13. undefined
-14. undefined
-15. undefined
-16. undefined
-17. undefined
-18. undefined
-19. undefined
-20. undefined
-
-21. undefined
-
-22. undefined
-23. undefined
-24. undefined
-25. undefined
-26. undefined
-27. undefined
+### Connect with me:
 
 
-28. undefined
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
 
-29. undefined
-30. undefined
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://dev.to/alestor123/)
+
+---
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+  <!--START_SECTION:activity-->
+
+  <!--END_SECTION:activity-->
+
+</details>
+
+[<img align="left" alt="alestor123 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+
+### My Stats:
+<img align="left" alt="alestor123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alestor123&show_icons=true&theme=dark" />
