@@ -19,6 +19,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Mern Stack On Heroku](https://dev.to/alestor123/deploy-mern-stack-on-heroku-4hjg)
 - [How To Create A Github Profile As A Developer ](https://dev.to/alestor123/how-to-create-a-github-profile-as-a-developer-33j1)
 - [Console Log Every Where](https://dev.to/alestor123/console-log-every-where-35hc)
 - [Should You Learn Bootstrap In 2020](https://dev.to/alestor123/should-you-learn-bootstrap-in-2020-14ln)
