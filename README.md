@@ -26,6 +26,7 @@
 - [Hi therer](https://dev.to/alestor123/hi-therer-5b2b)
 <!-- BLOG-POST-LIST:END -->
 
+➡️ [more blog posts...](https://dev.to/alestor123/)
 
 [<img align="left" alt="alestor123 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
 
