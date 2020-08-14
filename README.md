@@ -28,6 +28,14 @@
 
 ➡️ [more blog posts...](https://dev.to/alestor123/)
 
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</details>
+
+
 [<img align="left" alt="alestor123 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
 
 ### My Stats:
