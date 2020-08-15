@@ -28,7 +28,9 @@
 
 
 [<img align="left" alt="alestor123 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+
 📊 **This week I spent my time on**
+
 <!--START_SECTION:waka-->
 ```text
 ```
