@@ -32,7 +32,7 @@
 [<img align="left" alt="alestor123 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
 
 ### Spotify Playing 🎧
-[<img src="https://https://novatorem-1-git-master.alestor123.vercel.app/api/spotify-playing/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<YOUR SPOTIFY USER ID>)
+<img src="https://https://novatorem-1-git-master.alestor123.vercel.app/api/spotify-playing/api/spotify-playing" alt="Spotify Now Playing" width="350" />(https://open.spotify.com/user/<YOUR SPOTIFY USER ID>)
 
 📊 **Latest Activity**
 
