@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Http In Depth](https://dev.to/alestor123/http-in-depth-3jna)
+- [API's For Your Project](https://dev.to/alestor123/api-s-for-your-project-3d9k)
 - [So Where Do I Deploy ???](https://dev.to/alestor123/so-where-do-i-deploy-eah)
 - [So What The Heck Is Taiwind??](https://dev.to/alestor123/so-what-the-heck-is-taiwind-2e31)
 - [Battle Ship Challenge For Developers](https://dev.to/alestor123/battle-ship-challenge-for-developers-14ag)
-- [Deploy Mern Stack On Heroku](https://dev.to/alestor123/deploy-mern-stack-on-heroku-4hjg)
-- [How To Create A Github Profile As A Developer](https://dev.to/alestor123/how-to-create-a-github-profile-as-a-developer-33j1)
 <!-- BLOG-POST-LIST:END -->
 
 
