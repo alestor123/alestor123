@@ -36,8 +36,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#883](https://github.com//fireship-io/git-sticker/pull/883) in [fireship-io/git-sticker](https://github.com//fireship-io/git-sticker)
-2. 🗣 Commented on [#8871](https://github.com//nodejs/node/issues/8871) in [nodejs/node](https://github.com//nodejs/node)
+1. 💪 Opened PR [#3](https://github.com//kubowania/battleships/pull/3) in [kubowania/battleships](https://github.com//kubowania/battleships)
+2. 💪 Opened PR [#883](https://github.com//fireship-io/git-sticker/pull/883) in [fireship-io/git-sticker](https://github.com//fireship-io/git-sticker)
 <!--END_SECTION:activity-->
 
 
