@@ -36,8 +36,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com//kubowania/battleships/pull/3) in [kubowania/battleships](https://github.com//kubowania/battleships)
-2. 💪 Opened PR [#883](https://github.com//fireship-io/git-sticker/pull/883) in [fireship-io/git-sticker](https://github.com//fireship-io/git-sticker)
+1. 🗣 Commented on [#504](https://github.com//github/covid19-dashboard/issues/504) in [github/covid19-dashboard](https://github.com//github/covid19-dashboard)
+2. 💪 Opened PR [#504](https://github.com//github/covid19-dashboard/pull/504) in [github/covid19-dashboard](https://github.com//github/covid19-dashboard)
 <!--END_SECTION:activity-->
 
 
