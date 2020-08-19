@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [So Canvas ???](https://dev.to/alestor123/so-canvas-p4n)
+- [Dns In 1 Shot](https://dev.to/alestor123/dns-in-1-shot-26e5)
+- [So Should I Go For Node Js Or Golang ??](https://dev.to/alestor123/so-should-i-go-for-node-js-or-golang-1l4b)
+- [JavaScript — Mocha to ES8 and Beyond](https://dev.to/alestor123/javascript-mocha-to-es8-and-beyond-33pb)
 - [Http In Depth](https://dev.to/alestor123/http-in-depth-3jna)
-- [API's For Your Project](https://dev.to/alestor123/api-s-for-your-project-3d9k)
-- [So Where Do I Deploy ???](https://dev.to/alestor123/so-where-do-i-deploy-eah)
-- [So What The Heck Is Taiwind??](https://dev.to/alestor123/so-what-the-heck-is-taiwind-2e31)
-- [Battle Ship Challenge For Developers](https://dev.to/alestor123/battle-ship-challenge-for-developers-14ag)
 <!-- BLOG-POST-LIST:END -->
 
 
