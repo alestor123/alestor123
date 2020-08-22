@@ -6,7 +6,7 @@
     <img src="https://raw.githubusercontent.com/alestor123/alestor123/master/assets/icon.svg">
 </p>
 
-<h1 align="center"> Hi there, I'm Alestor </h1>
+<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Alestor </h1>
 
 <h2 align="center"> A Normal Mortal Web Developer With Immortal Dreams</h2>
 
