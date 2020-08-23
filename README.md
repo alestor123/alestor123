@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [So Declare Code War](https://dev.to/alestor123/so-declare-code-war-5b2f)
 - [So Should I Use Deno ???](https://dev.to/alestor123/so-should-i-use-deno-2101)
 - [So What Is Natour Challenge(Must Attend As A Web Developer)](https://dev.to/alestor123/so-what-is-natour-challenge-must-attend-as-a-web-developer-546c)
 - [So Canvas ???](https://dev.to/alestor123/so-canvas-p4n)
 - [Dns In 1 Shot](https://dev.to/alestor123/dns-in-1-shot-26e5)
-- [So Should I Go For Node Js Or Golang ??](https://dev.to/alestor123/so-should-i-go-for-node-js-or-golang-1l4b)
 <!-- BLOG-POST-LIST:END -->
 
 
