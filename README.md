@@ -45,7 +45,7 @@
 <!--END_SECTION:activity-->
 
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alestor123&layout=compact)](https://github.com/alestor123)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alestor123&layout=compact)
 
 ### My Stats:
 <img align="left" alt="alestor123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alestor123&show_icons=true&theme=dark" />
