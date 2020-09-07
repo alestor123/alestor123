@@ -25,11 +25,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Web Cache - Everything you need to know](https://dev.to/alestor123/web-cache-everything-you-need-to-know-1j2o)
-- [So Declare Code War](https://dev.to/alestor123/so-declare-code-war-5b2f)
-- [So Should I Use Deno ???](https://dev.to/alestor123/so-should-i-use-deno-2101)
-- [So What Is Natour Challenge(Must Attend As A Web Developer)](https://dev.to/alestor123/so-what-is-natour-challenge-must-attend-as-a-web-developer-546c)
-- [So Canvas ???](https://dev.to/alestor123/so-canvas-p4n)
+- [Hi therer](https://dev.to/alestor123/hi-therer-5b2b)
 <!-- BLOG-POST-LIST:END -->
 
 
