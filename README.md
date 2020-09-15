@@ -40,8 +40,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#244](https://github.com//emmabostian/developer-portfolios/pull/244) in [emmabostian/developer-portfolios](https://github.com//emmabostian/developer-portfolios)
-2. 🗣 Commented on [#504](https://github.com//github/covid19-dashboard/issues/504) in [github/covid19-dashboard](https://github.com//github/covid19-dashboard)
+1. 💪 Opened PR [#3](https://github.com//hemanth/sleep-mode/pull/3) in [hemanth/sleep-mode](https://github.com//hemanth/sleep-mode)
+2. 💪 Opened PR [#244](https://github.com//emmabostian/developer-portfolios/pull/244) in [emmabostian/developer-portfolios](https://github.com//emmabostian/developer-portfolios)
 <!--END_SECTION:activity-->
 
 
