@@ -40,8 +40,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#199](https://github.com/kamranahmedse/roadmap.sh/issues/199) in [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh)
-2. 💪 Opened PR [#3](https://github.com/hemanth/sleep-mode/pull/3) in [hemanth/sleep-mode](https://github.com/hemanth/sleep-mode)
+1. 🎉 Merged PR [#2](https://github.com/OMCR-DEV/OMCR-DEV/pull/2) in [OMCR-DEV/OMCR-DEV](https://github.com/OMCR-DEV/OMCR-DEV)
+2. 💪 Opened PR [#2](https://github.com/OMCR-DEV/OMCR-DEV/pull/2) in [OMCR-DEV/OMCR-DEV](https://github.com/OMCR-DEV/OMCR-DEV)
 <!--END_SECTION:activity-->
 
 
