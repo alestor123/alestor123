@@ -47,5 +47,10 @@
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alestor123&layout=compact&theme=dark)
 
+# Code Wars
+<a href="https://www.codewars.com/users/alestor123/">
+![Code Wars](https://www.codewars.com/users/alestor123/badges/large)
+</a>
+ 
 ### My Stats:
 <img align="left" alt="alestor123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alestor123&show_icons=true&theme=dark" />
