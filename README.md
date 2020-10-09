@@ -40,8 +40,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#373](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/373) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. 🎉 Merged PR [#2](https://github.com/OMCR-DEV/OMCR-DEV/pull/2) in [OMCR-DEV/OMCR-DEV](https://github.com/OMCR-DEV/OMCR-DEV)
+1. 💪 Opened PR [#121](https://github.com/is-a-dev/register/pull/121) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. ❌ Closed PR [#373](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/373) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 
 
