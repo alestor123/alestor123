@@ -14,7 +14,8 @@
 
 <h2 align="center"> A Normal Mortal Web Developer With Immortal Dreams</h2>
 
-### I'm a Student Developer and an Enthusiast In Coding 
+### <img align="center"
+                src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />  I'm a Student Developer and an Enthusiast In Coding 
 - I'm a Self Taught Developer Who Is Passionate About His Work
 - I’m looking to collaborate with other Developers
 - Goals: Contribute more to Open Source projects
