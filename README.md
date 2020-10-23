@@ -40,8 +40,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/kubowania/battleships/pull/4) in [kubowania/battleships](https://github.com/kubowania/battleships)
-2. 💪 Opened PR [#121](https://github.com/is-a-dev/register/pull/121) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ❌ Closed PR [#4](https://github.com/kubowania/battleships/pull/4) in [kubowania/battleships](https://github.com/kubowania/battleships)
+2. 💪 Opened PR [#4](https://github.com/kubowania/battleships/pull/4) in [kubowania/battleships](https://github.com/kubowania/battleships)
 <!--END_SECTION:activity-->
 
 
