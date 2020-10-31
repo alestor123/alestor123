@@ -40,8 +40,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/kubowania/battleships/pull/4) in [kubowania/battleships](https://github.com/kubowania/battleships)
-2. 💪 Opened PR [#4](https://github.com/kubowania/battleships/pull/4) in [kubowania/battleships](https://github.com/kubowania/battleships)
+1. ❗️ Closed issue [#3](https://github.com/ethomson/github4life/issues/3) in [ethomson/github4life](https://github.com/ethomson/github4life)
+2. 🗣 Commented on [#3](https://github.com/ethomson/github4life/issues/3) in [ethomson/github4life](https://github.com/ethomson/github4life)
 <!--END_SECTION:activity-->
 
 
