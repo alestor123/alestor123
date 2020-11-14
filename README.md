@@ -24,8 +24,8 @@
 <p align="center">  
 <a href="https://octoday.glitch.me/">
 <h1 align=right style="padding-right:1.5cm">Octoday</h1>
+<img width="200"  align=right height="200" src="https://octoday.glitch.me/octodex">
 </a>
-  <img width="200"  align=right height="200" src="https://octoday.glitch.me/octodex">
 </p>
 
 ### Connect with me:
