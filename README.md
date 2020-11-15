@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Alestor </h1>
-
+alt="alestor123"
 <h2 align="center"> A Normal Mortal Web Developer With Immortal Dreams</h2>
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />  I'm a Student Developer and an Enthusiast In Coding 
@@ -22,7 +22,7 @@
 
 
 <p align="center">  
-<a href="https://octoday.glitch.me/">
+<a href="https://octoday.glitch.me/" alt="octoday">
 <h1 align=right style="padding-right:1.5cm">Octoday</h1>
 <img width="200"  align=right height="200" src="https://octoday.glitch.me/octodex">
 </a>
