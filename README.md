@@ -47,8 +47,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/ethomson/github4life/issues/3) in [ethomson/github4life](https://github.com/ethomson/github4life)
-2. 🗣 Commented on [#3](https://github.com/ethomson/github4life/issues/3) in [ethomson/github4life](https://github.com/ethomson/github4life)
+1. ❗️ Reopened issue [#1](https://github.com/alestor123/AMA/issues/1) in [alestor123/AMA](https://github.com/alestor123/AMA)
+2. ❗️ Closed issue [#1](https://github.com/alestor123/AMA/issues/1) in [alestor123/AMA](https://github.com/alestor123/AMA)
 <!--END_SECTION:activity-->
 
 
