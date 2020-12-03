@@ -4,6 +4,7 @@
 </p>
 
 [![Website](https://img.shields.io/website?label=alestor123.github.io&style=for-the-badge&url=https%3A%2F%2Falestor123.github.io)](https://alestor123.github.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/alestor123?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/alestor123)
 
 
 <p align="center">
@@ -27,7 +28,11 @@
 </a>
 </p>
 
-### Connect with me:
+## Connect with me:
+
+<a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://dev.to/alestor123"><img height="30" src="./assets/devto.png"></a>&nbsp;&nbsp;
+ <a href="https://www.buymeacoffee.com/alestor123"><img height="30" src="./assets/coffee.jpg"></a>&nbsp;&nbsp;
 
 
 ### 📕 Latest Blog Posts
@@ -40,7 +45,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-[<img align="left" alt="alestor123 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+<a href="https://twitter.com/alestor123">
+<img align="left" alt="alestor123 | Twitter" width="22px" src="./assets/twitter.png" />
+</a>
 
 ### Spotify Playing 🎧
 <img src="https://novatorem-1-git-master.alestor123.vercel.app/api/spotify-playing/" alt="Spotify Now Playing" width="350" />
