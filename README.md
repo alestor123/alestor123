@@ -48,6 +48,7 @@
 ### <a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"> &nbsp;&nbsp;  Latest Tweets </a>
 
 <!-- TWEET:START -->
+- [@alestor123: Working on Web Cron (a web based cron service)](https://twitter.com/alestor123/status/1334895233570537475)
 - [alestor123: RT @kamranahmedse: Big-O notation summarized
 
 O(1) = O(😊)
@@ -59,17 +60,6 @@ O(n!) = O(😭) …](https://twitter.com/alestor123/status/1334880981723955202)
 - [@alestor123: Great Job](https://twitter.com/alestor123/status/1334825368805490690)
 - [alestor123: Yeah its very cold over here](https://twitter.com/alestor123/status/1334788975899250689)
 - [alestor123: Hello World](https://twitter.com/alestor123/status/1334525913619341313)
-- [diana_ashktorab: Day #51-55 #100DaysOfCode 
-
-Here is my Rolling Ball 🏀⚽️
-
-My 2nd Pen in @CodePen 🙃
-
-one <div> and CSS animation, transform, gradient, ... 
-This is the link 👇
-
-
-#CodeNewbie #CodeNewbies #GirlsWhoCode #KidsWhoCode #KidsCanCode #CSS #developers #DEVCommunity](https://twitter.com/diana_ashktorab/status/1334177177651306509)
 <!-- TWEET:END -->
 
 ### Spotify Playing 🎧
