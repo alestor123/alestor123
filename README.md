@@ -48,6 +48,14 @@
 ### <a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"> &nbsp;&nbsp;  Latest Tweets </a>
 
 <!-- TWEET:START -->
+- [alestor123: RT @kamranahmedse: Big-O notation summarized
+
+O(1) = O(😊)
+O(log n) = O(🙂)
+O(n) = O(🥲)
+O(n²) = O(☹️)
+O(2ⁿ) = O(😢)
+O(n!) = O(😭) …](https://twitter.com/alestor123/status/1334880981723955202)
 - [@alestor123: Great Job](https://twitter.com/alestor123/status/1334825368805490690)
 - [alestor123: Yeah its very cold over here](https://twitter.com/alestor123/status/1334788975899250689)
 - [alestor123: Hello World](https://twitter.com/alestor123/status/1334525913619341313)
