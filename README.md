@@ -47,9 +47,6 @@
 
 ### <a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"></a>&nbsp;&nbsp;  Latest Tweets
 
-<a href="https://twitter.com/alestor123">
-<img align="left" alt="alestor123 | Twitter" width="22px" src="./assets/twitter.png" />
-</a>
 
 ### Spotify Playing 🎧
 <img src="https://novatorem-1-git-master.alestor123.vercel.app/api/spotify-playing/" alt="Spotify Now Playing" width="350" />
