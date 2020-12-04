@@ -51,6 +51,17 @@
 - [@alestor123: Great Job](https://twitter.com/alestor123/status/1334825368805490690)
 - [alestor123: Yeah its very cold over here](https://twitter.com/alestor123/status/1334788975899250689)
 - [alestor123: Hello World](https://twitter.com/alestor123/status/1334525913619341313)
+- [diana_ashktorab: Day #51-55 #100DaysOfCode 
+
+Here is my Rolling Ball 🏀⚽️
+
+My 2nd Pen in @CodePen 🙃
+
+one <div> and CSS animation, transform, gradient, ... 
+This is the link 👇
+
+
+#CodeNewbie #CodeNewbies #GirlsWhoCode #KidsWhoCode #KidsCanCode #CSS #developers #DEVCommunity](https://twitter.com/diana_ashktorab/status/1334177177651306509)
 <!-- TWEET:END -->
 
 ### Spotify Playing 🎧
