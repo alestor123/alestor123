@@ -45,7 +45,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-### <a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"></a>&nbsp;&nbsp;  Latest Tweets
+### <a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"> &nbsp;&nbsp;  Latest Tweets </a>
 
 
 ### Spotify Playing 🎧
