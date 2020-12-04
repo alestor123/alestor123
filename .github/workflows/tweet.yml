@@ -1,1 +1,17 @@
+name: Latest Tweet
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's README with latest tweet
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "TWEET"
+          feed_list: "https://rss.app/feeds/CI716CXmpooQsd1f.xml"
