@@ -48,11 +48,11 @@
 ### <a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"> &nbsp;&nbsp;  Latest Tweets </a>
 
 <!-- TWEET:START -->
+- [alestor123: Added lastest tweet wokflow to my github profile](https://twitter.com/alestor123/status/1335299850355687425)
+- [alestor123: Upcoming project: Greet Bot](https://twitter.com/alestor123/status/1335297427151065088)
 - [@alestor123: Good Times](https://twitter.com/alestor123/status/1335269009109893120)
 - [alestor123: Working on the main function (Web Cron)](https://twitter.com/alestor123/status/1335203110671634435)
 - [alestor123: this.weekend = ['Coding','Badminton','Chilling with friends']](https://twitter.com/alestor123/status/1334940009892171776)
-- [alestor123: RT @nodejs: Happy birthday, JavaScript 🎂](https://twitter.com/alestor123/status/1334934264899461123)
-- [@alestor123: Working on Web Cron (a web based cron service)](https://twitter.com/alestor123/status/1334895233570537475)
 <!-- TWEET:END -->
 
 ### Spotify Playing 🎧
