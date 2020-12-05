@@ -48,18 +48,11 @@
 ### <a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"> &nbsp;&nbsp;  Latest Tweets </a>
 
 <!-- TWEET:START -->
+- [alestor123: Working on the main function (Web Cron)](https://twitter.com/alestor123/status/1335203110671634435)
 - [alestor123: this.weekend = ['Coding','Badminton','Chilling with friends']](https://twitter.com/alestor123/status/1334940009892171776)
 - [alestor123: RT @nodejs: Happy birthday, JavaScript 🎂](https://twitter.com/alestor123/status/1334934264899461123)
 - [@alestor123: Working on Web Cron (a web based cron service)](https://twitter.com/alestor123/status/1334895233570537475)
 - [nodejs: Happy birthday, JavaScript 🎂](https://twitter.com/nodejs/status/1334887528046993421)
-- [alestor123: RT @kamranahmedse: Big-O notation summarized
-
-O(1) = O(😊)
-O(log n) = O(🙂)
-O(n) = O(🥲)
-O(n²) = O(☹️)
-O(2ⁿ) = O(😢)
-O(n!) = O(😭) …](https://twitter.com/alestor123/status/1334880981723955202)
 <!-- TWEET:END -->
 
 ### Spotify Playing 🎧
