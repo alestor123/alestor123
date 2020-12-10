@@ -48,8 +48,7 @@
 ### <a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"> &nbsp;&nbsp;  Latest Tweets </a>
 
 <!-- TWEET:START -->
-- [alestor123: Working on a christmas special
-#Christmas #javascript](https://twitter.com/alestor123/status/1337044495037304833)
+- [alestor123: Working on a christmas special#Christmas #javascript](https://twitter.com/alestor123/status/1337044495037304833)
 - [alestor123: and i build a json to dotenv cli still WIP](https://twitter.com/alestor123/status/1336640504365117441)
 - [alestor123: My Octocat
 #github #GitHubUniverse #MyOctocat](https://twitter.com/alestor123/status/1336578193755521025)
