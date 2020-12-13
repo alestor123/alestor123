@@ -56,8 +56,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#1](https://github.com/alestor123/AMA/issues/1) in [alestor123/AMA](https://github.com/alestor123/AMA)
-2. ❗️ Closed issue [#1](https://github.com/alestor123/AMA/issues/1) in [alestor123/AMA](https://github.com/alestor123/AMA)
+1. 🎉 Merged PR [#1](https://github.com/alestor123/RON-SWANSON-BACKEND/pull/1) in [alestor123/RON-SWANSON-BACKEND](https://github.com/alestor123/RON-SWANSON-BACKEND)
+2. ❗️ Reopened issue [#1](https://github.com/alestor123/AMA/issues/1) in [alestor123/AMA](https://github.com/alestor123/AMA)
 <!--END_SECTION:activity-->
 
 
