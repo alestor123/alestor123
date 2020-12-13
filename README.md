@@ -48,7 +48,7 @@
 ### <a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"> &nbsp;&nbsp;  Latest Tweets </a>
 
 <!-- TWEET:START -->
-- [[Action required] Your RSS.app Trial has Expired - Sat Dec 12 2020](https://rss.app)
+- [[Action required] Your RSS.app Trial has Expired - Sun Dec 13 2020](https://rss.app)
 <!-- TWEET:END -->
 
 ### Spotify Playing 🎧
