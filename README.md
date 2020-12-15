@@ -48,11 +48,11 @@
 ### <a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"> &nbsp;&nbsp;  Latest Tweets </a>
 
 <!-- TWEET:START -->
+- [alestor123: AWS budget actions has saved many developer](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf0aa6f7fdf1d069b62d060e0c41573168b)
+- [alestor123: Uff #YouTubeDOWN](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf0aa6e7bdc13069260dc6be0c5127a1382)
 - [alestor123: RT @OrgPhysics: Only Astronomy lovers will understand this picture! 😍](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf0aa6974da150c9567d46ae1c2157d1c8a)
 - [alestor123: Working on logfs](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf0aa6974dc11089a68dc69e3c71578108e)
 - [alestor123: Have a lot of work to be done in the next week](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf0aa6a74d9140d9b60dd60e7c11b7f1c82)
-- [alestor123: back in business](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf0aa6a7eda12079464d568e8ca127f1c89)
-- [@alestor123: published christmas cli](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf0a56279d611069561dd6ae1c71472128a)
 <!-- TWEET:END -->
 
 ### Spotify Playing 🎧
