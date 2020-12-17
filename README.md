@@ -60,8 +60,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29](https://github.com/hackclub/apply/issues/29) in [hackclub/apply](https://github.com/hackclub/apply)
-2. ❗️ Opened issue [#1519](https://github.com/hackclub/hackclub/issues/1519) in [hackclub/hackclub](https://github.com/hackclub/hackclub)
+1. ❗️ Opened issue [#1](https://github.com/alestor123/WEB-CRON/issues/1) in [alestor123/WEB-CRON](https://github.com/alestor123/WEB-CRON)
+2. ❗️ Opened issue [#1](https://github.com/alestor123/WEB-POWER/issues/1) in [alestor123/WEB-POWER](https://github.com/alestor123/WEB-POWER)
 <!--END_SECTION:activity-->
 
 
