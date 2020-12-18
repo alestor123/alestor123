@@ -60,8 +60,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/alestor123/WEB-CRON/issues/1) in [alestor123/WEB-CRON](https://github.com/alestor123/WEB-CRON)
-2. ❗️ Opened issue [#1](https://github.com/alestor123/WEB-POWER/issues/1) in [alestor123/WEB-POWER](https://github.com/alestor123/WEB-POWER)
+1. ❗️ Closed issue [#2](https://github.com/alestor123/AMA/issues/2) in [alestor123/AMA](https://github.com/alestor123/AMA)
+2. ❗️ Opened issue [#2](https://github.com/alestor123/AMA/issues/2) in [alestor123/AMA](https://github.com/alestor123/AMA)
 <!--END_SECTION:activity-->
 
 
