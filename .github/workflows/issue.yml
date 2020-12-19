@@ -1,1 +1,17 @@
+name: Guest Book AMA
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's README with latest ama
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "AMA"
+          feed_list: "https://rss-github.glitch.me/issues/alestor123/AMA"
