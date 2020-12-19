@@ -59,6 +59,7 @@
 ## Guestbook / AMA
 
 <!-- AMA:START -->
+- [Test Kollam](https://github.com/alestor123/AMA/issues/3)
 - [Welcome To Ask Me Anything](https://github.com/alestor123/AMA/issues/1)
 <!-- AMA:END -->
 
