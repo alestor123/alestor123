@@ -55,6 +55,13 @@
 - [alestor123: Working on logfs](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf0aa6974dc11089a68dc69e3c71578108e)
 <!-- TWEET:END -->
 
+
+## Guestbook / AMA
+
+<!-- AMA:START -->
+<!-- AMA:END -->
+
+
 ### Spotify Playing 🎧
 <img src="https://novatorem-1-git-master.alestor123.vercel.app/api/spotify-playing/" alt="Spotify Now Playing" width="350" />
 📊 **Latest Activity**
