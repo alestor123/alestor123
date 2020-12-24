@@ -68,8 +68,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/alestor123/AMA/issues/3) in [alestor123/AMA](https://github.com/alestor123/AMA)
-2. ❗️ Opened issue [#3](https://github.com/alestor123/AMA/issues/3) in [alestor123/AMA](https://github.com/alestor123/AMA)
+1. ❗️ Opened issue [#1](https://github.com/alestor123/RSS-GITHUB/issues/1) in [alestor123/RSS-GITHUB](https://github.com/alestor123/RSS-GITHUB)
+2. ❗️ Closed issue [#3](https://github.com/alestor123/AMA/issues/3) in [alestor123/AMA](https://github.com/alestor123/AMA)
 <!--END_SECTION:activity-->
 
 
