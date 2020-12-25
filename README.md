@@ -37,11 +37,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Curl In 5 Min](https://dev.to/alestor123/curl-in-5-min-ngm)
 - [So Declare Code War](https://dev.to/alestor123/so-declare-code-war-2673)
 - [So Canvas ???](https://dev.to/alestor123/so-canvas-bdo)
 - [Should You Learn Bootstrap In 2020](https://dev.to/alestor123/should-you-learn-bootstrap-in-2020-5007)
 - [Battle Ship Challenge For Developers](https://dev.to/alestor123/battle-ship-challenge-for-developers-5i9)
-- [Should I Go For Node or Golang](https://dev.to/alestor123/should-i-go-for-node-or-golang-3d9c)
 <!-- BLOG-POST-LIST:END -->
 
 
