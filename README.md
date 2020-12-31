@@ -48,11 +48,11 @@
 ### <a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"> &nbsp;&nbsp;  Latest Tweets </a>
 
 <!-- TWEET:START -->
+- [alestor123: Little bit of work left before 2021](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7a66b75d9130c9268dc6be8c3137e1189)
+- [alestor123: 2021 is on it's way](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7a66b75d917099763dd68e4cb1a791389)
 - [alestor123: RT @year_progress: ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 99%](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7a16f7cdc14089067d661e5c61a78168b)
 - [@alestor123: Always remember money should not be  the source of motive](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7a1687bdc1c079667d569e3c71b79128e)
 - [@alestor123: Working on userlog](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7a16b74d814069666d36fe3c2127b148e)
-- [alestor123: And we got few days left for new year](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7a06f7bdb120d9165d768e2c41b7a1189)
-- [alestor123: My new article on curl](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7a06f7ed61c0c9662d06fe5c3157c1683)
 <!-- TWEET:END -->
 
 
