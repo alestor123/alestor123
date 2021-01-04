@@ -48,11 +48,23 @@
 ### <a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"> &nbsp;&nbsp;  Latest Tweets </a>
 
 <!-- TWEET:START -->
+- [alestor123: HTTP stats codes as emoji.
+- 200 ✅
+- 201 📝
+- 301 🚚
+- 400 🚫
+- 401 🔐
+- 402 💰
+- 403 ⛔
+- 404 ❓
+- 408 ⌛️ 
+- 410 💨
+- 418 🍵
+- 500 💣](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7a76e79de100d9167d760e4c0117c1383)
 - [alestor123: Thanks to maintainers](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7a66378d6150b9762d16ce1c11b7d1c8a)
 - [@alestor123: Happy New Year](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7a66d7cdd100d9463d06de4c0177a168a)
 - [@alestor123: <2020/>](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7a66c78dc1d0a9460d068e6c413791688)
 - [@alestor123: Made a webpage for newyear count down with dramatic bg music](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7a66c7dd712079a67dc6ce0c21b7f108b)
-- [@alestor123: Made a newyear count down cli](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7a66c7dd717079167d46ae2ca177e178d)
 <!-- TWEET:END -->
 
 
