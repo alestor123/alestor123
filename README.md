@@ -48,11 +48,11 @@
 ### <a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"> &nbsp;&nbsp;  Latest Tweets </a>
 
 <!-- TWEET:START -->
+- [@elonmusk:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1a33bdefcff79411ca9573c6f60ab61368dbda60faa46b75dd140d9664d36ae4c51b78)
 - [@alestor123: Folks always remember never pile up your documentation work it will kick you back](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7a46d7edf150f9264d46fe6c5177a148f)
 - [@alestor123: got a lot for work](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7a46f7cdc150e9a64d76ee7c4147f1d8d)
 - [alestor123: RT @year_progress: ░░░░░░░░░░░░░░░ 1%](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7a4687fdf130b9666d360e4c116791389)
 - [@alestor123: Uff lot of pending work](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7a46b7bda1c089361d16ae3c1127e178a)
-- [@year_progress: ░░░░░░░░░░░░░░░ 1%](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e063ab3f3fdf29515829462d4f150b648389c9b2beca36979d9150d9762d661e7ca157b118838c461)
 <!-- TWEET:END -->
 
 
