@@ -48,13 +48,13 @@
 ### <a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"> &nbsp;&nbsp;  Latest Tweets </a>
 
 <!-- TWEET:START -->
+- [alestor123: And i love cool swag](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a26b7adc110c9a64d76de5c01178128a)
+- [alestor123: Thanks @hackclub for the swag](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7ab637adc1d0a9367d56de5c71b79148b)
 - [alestor123: RT @iamdevloper: $ npm install -g npm](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7ab6d7bda120f9065d369e4cb1a72138d)
 - [alestor123: RT @iamdevloper: me: I'll just get this working and deployed, and *then* I'll write the tests 
 
 my subconscious:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7ab6d78d8130e9168d061e5c0107c168a)
 - [alestor123: RT @elonmusk:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7ab6a7ddb170e9264d56ee3c11b7c128a)
-- [@elonmusk:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1a33bdefcff79411ca9573c6f60ab61368dbda60faa46b75dd140d9664d36ae4c51b78)
-- [@alestor123: Folks always remember never pile up your documentation work it will kick you back](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7a46d7edf150f9264d46fe6c5177a148f)
 <!-- TWEET:END -->
 
 
