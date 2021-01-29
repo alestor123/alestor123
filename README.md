@@ -68,7 +68,7 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/alestor123/JSON-TO-DOTENV/issues/1) in [alestor123/JSON-TO-DOTENV](https://github.com/alestor123/JSON-TO-DOTENV)
+1. ❗️ Opened issue [#1](https://github.com/alestor123/DIR-DIRS/issues/1) in [alestor123/DIR-DIRS](https://github.com/alestor123/DIR-DIRS)
 2. ❗️ Opened issue [#1](https://github.com/alestor123/WAIT-FOR-CHRISTMAS/issues/1) in [alestor123/WAIT-FOR-CHRISTMAS](https://github.com/alestor123/WAIT-FOR-CHRISTMAS)
 <!--END_SECTION:activity-->
 
