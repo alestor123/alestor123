@@ -48,11 +48,11 @@
 ### <a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"> &nbsp;&nbsp;  Latest Tweets </a>
 
 <!-- TWEET:START -->
+- [@alestor123: Renaming all local branches to main](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a46f7fdd130c9263d66ee8c310731d8c)
 - [alestor123: Who Wants to Be a Millionaire in the comfort of cli ??](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a76d74dd1c0f9165d06de0c7167f178d)
 - [alestor123: Yeah its a huge pain to switch to main branch](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a1697adf140c9a65d16ae2cb1a72138d)
-- [@alestor123: Working on a new fun frontend  project](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a36e79df160e9668d26fe8ca16791183)
+- [@alestor123: Working on a new fun frontend project](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a36e79df160e9668d26fe8ca16791183)
 - [alestor123: And i love cool swag](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a26b7adc110c9a64d76de5c01178128a)
-- [alestor123: Thanks @hackclub for the swag](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf7ab637adc1d0a9367d56de5c71b79148b)
 <!-- TWEET:END -->
 
 
