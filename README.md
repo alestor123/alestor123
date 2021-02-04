@@ -51,8 +51,8 @@
 - [@alestor123: Renaming all local branches to main](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a46f7fdd130c9263d66ee8c310731d8c)
 - [alestor123: Who Wants to Be a Millionaire in the comfort of cli ??](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a76d74dd1c0f9165d06de0c7167f178d)
 - [alestor123: Yeah its a huge pain to switch to main branch](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a1697adf140c9a65d16ae2cb1a72138d)
+- [@SunSuzSunTzuing: Name the book Biden was sworn in on. Wrong answers only.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c2abcd2d7f8b40f8bb27dd2eb11a2132a9c8f2cb6e1757cdc110e9a66dd6ce4c71b7e128c38c66a84c6)
 - [@alestor123: Working on a new fun frontend project](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a36e79df160e9668d26fe8ca16791183)
-- [alestor123: And i love cool swag](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a26b7adc110c9a64d76de5c01178128a)
 <!-- TWEET:END -->
 
 
