@@ -87,6 +87,8 @@
 
 <img  alt="alestor123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alestor123&show_icons=true&theme=dark" />
 
+## Steaks 
+![steaks](https://github-readme-streak-stats.herokuapp.com/?user=alestor123)
 
 # ![Moji](https://github.githubassets.com/images/icons/emoji/unicode/1f496.png) Support my projects
 
