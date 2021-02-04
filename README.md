@@ -68,8 +68,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/alestor123/MILLIONAIRE/issues/1) in [alestor123/MILLIONAIRE](https://github.com/alestor123/MILLIONAIRE)
-2. ❗️ Opened issue [#1](https://github.com/alestor123/DIR-DIRS/issues/1) in [alestor123/DIR-DIRS](https://github.com/alestor123/DIR-DIRS)
+1. ❗️ Opened issue [#1697](https://github.com/hackclub/hackclub/issues/1697) in [hackclub/hackclub](https://github.com/hackclub/hackclub)
+2. ❗️ Opened issue [#1](https://github.com/alestor123/MILLIONAIRE/issues/1) in [alestor123/MILLIONAIRE](https://github.com/alestor123/MILLIONAIRE)
 <!--END_SECTION:activity-->
 
 
