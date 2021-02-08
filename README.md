@@ -48,11 +48,11 @@
 ### <a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"> &nbsp;&nbsp;  Latest Tweets </a>
 
 <!-- TWEET:START -->
+- [alestor123: RT @year_progress: ▓▓░░░░░░░░░░░░░ 10%](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6aa6a78db11089b63d06fe3cb117b1183)
+- [alestor123: RT @helloworldprog: Github commit history goals 2021](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a5637eda14079564dd6ae4cb1773108a)
 - [alestor123: RT @wesbos: 💀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a56d78d6160a9660d061e7c61a7e158e)
 - [alestor123: RT @SunSuzSunTzuing: Name the book Biden was sworn in on. Wrong answers only.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a56a78db1d0a9566dd60e3c313721282)
 - [@alestor123: Renaming all local branches to main](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a46f7fdd130c9263d66ee8c310731d8c)
-- [alestor123: Who Wants to Be a Millionaire in the comfort of cli ??](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a76d74dd1c0f9165d06de0c7167f178d)
-- [alestor123: Yeah its a huge pain to switch to main branch](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a1697adf140c9a65d16ae2cb1a72138d)
 <!-- TWEET:END -->
 
 
