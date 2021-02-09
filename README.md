@@ -68,8 +68,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/alestor123/.github/issues/1) in [alestor123/.github](https://github.com/alestor123/.github)
-2. ❗️ Opened issue [#1697](https://github.com/hackclub/hackclub/issues/1697) in [hackclub/hackclub](https://github.com/hackclub/hackclub)
+1. ❗️ Closed issue [#1](https://github.com/alestor123/SPAWN-EXEC/issues/1) in [alestor123/SPAWN-EXEC](https://github.com/alestor123/SPAWN-EXEC)
+2. ❗️ Opened issue [#1](https://github.com/alestor123/SPAWN-EXEC/issues/1) in [alestor123/SPAWN-EXEC](https://github.com/alestor123/SPAWN-EXEC)
 <!--END_SECTION:activity-->
 
 
