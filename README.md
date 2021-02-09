@@ -49,10 +49,10 @@
 
 <!-- TWEET:START -->
 - [alestor123: RT @year_progress: ▓▓░░░░░░░░░░░░░ 10%](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6aa6a78db11089b63d06fe3cb117b1183)
+- [@year_progress: ▓▓░░░░░░░░░░░░░ 10%](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e063ab3f3fdf29515829462d4f150b648389c9b2beca36978d7140d9166d16ae4cb1b7d158d3ec460)
 - [alestor123: RT @helloworldprog: Github commit history goals 2021](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a5637eda14079564dd6ae4cb1773108a)
 - [alestor123: RT @wesbos: 💀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a56d78d6160a9660d061e7c61a7e158e)
 - [alestor123: RT @SunSuzSunTzuing: Name the book Biden was sworn in on. Wrong answers only.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a56a78db1d0a9566dd60e3c313721282)
-- [@alestor123: Renaming all local branches to main](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6a46f7fdd130c9263d66ee8c310731d8c)
 <!-- TWEET:END -->
 
 
