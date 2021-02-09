@@ -68,8 +68,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/alestor123/SPAWN-EXEC/issues/1) in [alestor123/SPAWN-EXEC](https://github.com/alestor123/SPAWN-EXEC)
-2. ❗️ Opened issue [#1](https://github.com/alestor123/SPAWN-EXEC/issues/1) in [alestor123/SPAWN-EXEC](https://github.com/alestor123/SPAWN-EXEC)
+1. ❗️ Closed issue [#2](https://github.com/alestor123/.github/issues/2) in [alestor123/.github](https://github.com/alestor123/.github)
+2. ❗️ Opened issue [#2](https://github.com/alestor123/SPAWN-EXEC/issues/2) in [alestor123/SPAWN-EXEC](https://github.com/alestor123/SPAWN-EXEC)
 <!--END_SECTION:activity-->
 
 
