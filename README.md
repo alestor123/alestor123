@@ -76,8 +76,8 @@ Lol
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1697](https://github.com/hackclub/hackclub/issues/1697) in [hackclub/hackclub](https://github.com/hackclub/hackclub)
-2. ❗️ Closed issue [#2](https://github.com/alestor123/.github/issues/2) in [alestor123/.github](https://github.com/alestor123/.github)
+1. ❗️ Opened issue [#3](https://github.com/alestor123/THOUGHTS/issues/3) in [alestor123/THOUGHTS](https://github.com/alestor123/THOUGHTS)
+2. ❗️ Opened issue [#2](https://github.com/alestor123/THOUGHTS/issues/2) in [alestor123/THOUGHTS](https://github.com/alestor123/THOUGHTS)
 <!--END_SECTION:activity-->
 
 
