@@ -48,6 +48,7 @@
 ### <a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"> &nbsp;&nbsp;  Latest Tweets </a>
 
 <!-- TWEET:START -->
+- [alestor123: My Github Skyline](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf5a06e75de16079769dc6ee5c7147f1083)
 - [alestor123: Lot of cool stuff is going to happen tomorrow](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf5a06875da100b9663d568e7ca14731082)
 - [alestor123: Chrome dino game challange always super fun with @maya_ag 
 #hackthrob #mlh #minievent](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf5a26c7bde110f9668d061e8c1107a128b)
@@ -60,7 +61,6 @@ Lol
 #Hackthrob
 @MLHacks @GitHubEducation](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf5a26c7eda110b9667d160e1c51a7e1d8d)
 - [alestor123: RT @year_progress: ▓▓░░░░░░░░░░░░░ 10%](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf6aa6a78db11089b63d06fe3cb117b1183)
-- [@year_progress: ▓▓░░░░░░░░░░░░░ 10%](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e063ab3f3fdf29515829462d4f150b648389c9b2beca36978d7140d9166d16ae4cb1b7d158d3ec460)
 <!-- TWEET:END -->
 
 
