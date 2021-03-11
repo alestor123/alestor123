@@ -68,8 +68,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/alestor123/THOUGHTS/issues/4) in [alestor123/THOUGHTS](https://github.com/alestor123/THOUGHTS)
-2. ❗️ Opened issue [#3](https://github.com/alestor123/THOUGHTS/issues/3) in [alestor123/THOUGHTS](https://github.com/alestor123/THOUGHTS)
+1. 🗣 Commented on [#1](https://github.com/alestor123/IS-BAD/issues/1) in [alestor123/IS-BAD](https://github.com/alestor123/IS-BAD)
+2. 🗣 Commented on [#1](https://github.com/alestor123/IS-BAD/issues/1) in [alestor123/IS-BAD](https://github.com/alestor123/IS-BAD)
 <!--END_SECTION:activity-->
 
 
