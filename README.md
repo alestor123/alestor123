@@ -68,7 +68,7 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/alestor123/IS-BAD/issues/1) in [alestor123/IS-BAD](https://github.com/alestor123/IS-BAD)
+1. 🎉 Merged PR [#1](https://github.com/alestor123/IS-BAD/pull/1) in [alestor123/IS-BAD](https://github.com/alestor123/IS-BAD)
 2. 🗣 Commented on [#1](https://github.com/alestor123/IS-BAD/issues/1) in [alestor123/IS-BAD](https://github.com/alestor123/IS-BAD)
 <!--END_SECTION:activity-->
 
