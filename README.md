@@ -68,8 +68,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/alestor123/IS-BAD/pull/1) in [alestor123/IS-BAD](https://github.com/alestor123/IS-BAD)
-2. 🗣 Commented on [#1](https://github.com/alestor123/IS-BAD/issues/1) in [alestor123/IS-BAD](https://github.com/alestor123/IS-BAD)
+1. ❗️ Opened issue [#6](https://github.com/alestor123/THOUGHTS/issues/6) in [alestor123/THOUGHTS](https://github.com/alestor123/THOUGHTS)
+2. ❗️ Opened issue [#5](https://github.com/alestor123/THOUGHTS/issues/5) in [alestor123/THOUGHTS](https://github.com/alestor123/THOUGHTS)
 <!--END_SECTION:activity-->
 
 
