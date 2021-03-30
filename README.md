@@ -68,8 +68,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/alestor123/THOUGHTS/issues/6) in [alestor123/THOUGHTS](https://github.com/alestor123/THOUGHTS)
-2. ❗️ Opened issue [#5](https://github.com/alestor123/THOUGHTS/issues/5) in [alestor123/THOUGHTS](https://github.com/alestor123/THOUGHTS)
+1. ❗️ Opened issue [#2](https://github.com/BLAHAJGang/BLAHAJ-BOT/issues/2) in [BLAHAJGang/BLAHAJ-BOT](https://github.com/BLAHAJGang/BLAHAJ-BOT)
+2. ❗️ Opened issue [#1](https://github.com/BLAHAJGang/BLAHAJ-BOT/issues/1) in [BLAHAJGang/BLAHAJ-BOT](https://github.com/BLAHAJGang/BLAHAJ-BOT)
 <!--END_SECTION:activity-->
 
 
