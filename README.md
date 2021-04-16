@@ -48,11 +48,11 @@
 ### <a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"> &nbsp;&nbsp;  Latest Tweets </a>
 
 <!-- TWEET:START -->
+- [@alestor123: Thanks @hacktheburgh and @MLHacks For the awesome swag #swag #mlh](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bfba06c75d614079268dd6de3ca1078148e)
 - [alestor123: Thanks @InfluxDB for the swag#swag](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf5a7687cd8110c9765d76ae3c4177d148a)
 - [@alestor123: My Wellness Octocat@MLHacks @GitHubEducation @github#myoctocat #MyOctocat#HackAndWellness](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf5a1687cdd110c9b69d661e3c515781588)
 - [alestor123: My Github Skyline](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf5a06e75de16079769dc6ee5c7147f1083)
 - [alestor123: Lot of cool stuff is going to happen tomorrow](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf5a06875da100b9663d568e7ca14731082)
-- [alestor123: Chrome dino game challange always super fun with @maya_ag #hackthrob #mlh #minievent](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bf5a26c7bde110f9668d061e8c1107a128b)
 <!-- TWEET:END -->
 
 
