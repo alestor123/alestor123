@@ -68,8 +68,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1682](https://github.com/public-apis/public-apis/pull/1682) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
-2. 💪 Opened PR [#1681](https://github.com/public-apis/public-apis/pull/1681) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+1. 💪 Opened PR [#173](https://github.com/willianjusten/awesome-svg/pull/173) in [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg)
+2. 💪 Opened PR [#1682](https://github.com/public-apis/public-apis/pull/1682) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
 <!--END_SECTION:activity-->
 
 
