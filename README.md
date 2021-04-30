@@ -68,8 +68,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/BLAHAJGang/BLAHAJ-BOT/issues/2) in [BLAHAJGang/BLAHAJ-BOT](https://github.com/BLAHAJGang/BLAHAJ-BOT)
-2. ❗️ Opened issue [#2](https://github.com/BLAHAJGang/BLAHAJ-BOT/issues/2) in [BLAHAJGang/BLAHAJ-BOT](https://github.com/BLAHAJGang/BLAHAJ-BOT)
+1. 💪 Opened PR [#553](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/553) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+2. ❗️ Closed issue [#2](https://github.com/BLAHAJGang/BLAHAJ-BOT/issues/2) in [BLAHAJGang/BLAHAJ-BOT](https://github.com/BLAHAJGang/BLAHAJ-BOT)
 <!--END_SECTION:activity-->
 
 
