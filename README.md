@@ -69,7 +69,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1682](https://github.com/public-apis/public-apis/issues/1682) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
-2. 🗣 Commented on [#1681](https://github.com/public-apis/public-apis/issues/1681) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+2. 🗣 Commented on [#1682](https://github.com/public-apis/public-apis/issues/1682) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
 <!--END_SECTION:activity-->
 
 
