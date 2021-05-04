@@ -68,8 +68,8 @@
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173](https://github.com/willianjusten/awesome-svg/issues/173) in [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg)
-2. 🗣 Commented on [#173](https://github.com/willianjusten/awesome-svg/issues/173) in [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg)
+1. ❌ Closed PR [#1694](https://github.com/public-apis/public-apis/pull/1694) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+2. 💪 Opened PR [#1694](https://github.com/public-apis/public-apis/pull/1694) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
 <!--END_SECTION:activity-->
 
 
