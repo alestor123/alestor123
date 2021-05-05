@@ -69,7 +69,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1695](https://github.com/public-apis/public-apis/issues/1695) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
-2. 💪 Opened PR [#1695](https://github.com/public-apis/public-apis/pull/1695) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+2. 🗣 Commented on [#1695](https://github.com/public-apis/public-apis/issues/1695) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
 <!--END_SECTION:activity-->
 
 
