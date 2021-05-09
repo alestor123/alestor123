@@ -62,6 +62,9 @@
 - [Welcome To Ask Me Anything](https://github.com/alestor123/AMA/issues/1)
 <!-- AMA:END -->
 
+## Newsletter
+i have a newsletter called [ < Adventures Of ClI /> ](https://alestor123.is-a.dev/newsletter/)
+
 
 ### Spotify Playing 🎧
 <img src="https://novatorem-1-git-master.alestor123.vercel.app/api/spotify-playing/" alt="Spotify Now Playing" width="350" />
