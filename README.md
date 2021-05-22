@@ -48,11 +48,11 @@
 ### <a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"> &nbsp;&nbsp;  Latest Tweets </a>
 
 <!-- TWEET:START -->
+- [@alestor123: Hell Yeah I got my badge 🇺🇸 #jsworldconferenceusa 🇺🇸 #javascript  via @frontend_love](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bfaa7627cd612079063d068e1c5157f1089)
 - [@alestor123: Just got my ticket for a special edition of #nextjsconf, grab yours!Let's make the web. Faster.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bfaa76a74df1c089765d06ae2c2157c158e)
 - [@jasnell: ... but, there is a simple of a counting how many Promises are being created within a single synchronous execution scope in Node.js using async_hooks.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e153ea1efc7ee8b55969266d3f70cea0d6ad1df60fba46275de140b9460d76be7c315)
 - [@alestor123: "Usage of git stash" by @alestor123 #DEVCommunity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bfaa26d7dd9160a9b60d06de9cb157b1d89)
 - [@alestor123: Im some kind of a genius my self beyond all recognition](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bfaa26f74d9160b9263d469e1c113791d8d)
-- [@alestor123: "Clean Your Code" by @alestor123 #DEVCommunity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e33b7f2d6ed954bd7d528d4f61eb1492ac7df6bfbab6e75da15079665d06be4c210791483)
 <!-- TWEET:END -->
 
 
