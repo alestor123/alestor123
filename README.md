@@ -71,8 +71,8 @@ i have a newsletter called [ < Adventures Of ClI /> ](https://alestor123.is-a.de
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#116](https://github.com/RIAEvangelist/node-dominos-pizza-api/issues/116) in [RIAEvangelist/node-dominos-pizza-api](https://github.com/RIAEvangelist/node-dominos-pizza-api)
-2. 🗣 Commented on [#118](https://github.com/RIAEvangelist/node-dominos-pizza-api/issues/118) in [RIAEvangelist/node-dominos-pizza-api](https://github.com/RIAEvangelist/node-dominos-pizza-api)
+1. 🗣 Commented on [#126007](https://github.com/microsoft/vscode/issues/126007) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#126007](https://github.com/microsoft/vscode/issues/126007) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 
