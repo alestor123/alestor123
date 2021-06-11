@@ -71,8 +71,8 @@ i have a newsletter called [ < Adventures Of ClI /> ](https://alestor123.is-a.de
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#125982](https://github.com/microsoft/vscode/issues/125982) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#126007](https://github.com/microsoft/vscode/issues/126007) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#126027](https://github.com/microsoft/vscode/issues/126027) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#126028](https://github.com/microsoft/vscode/issues/126028) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 
