@@ -71,8 +71,8 @@ i have a newsletter called [ < Adventures Of ClI /> ](https://alestor123.is-a.de
 📊 **Latest Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126027](https://github.com/microsoft/vscode/issues/126027) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#126028](https://github.com/microsoft/vscode/issues/126028) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🎉 Merged PR [#2](https://github.com/alestor123/RON-SWANSON-BACKEND/pull/2) in [alestor123/RON-SWANSON-BACKEND](https://github.com/alestor123/RON-SWANSON-BACKEND)
+2. 🎉 Merged PR [#3](https://github.com/alestor123/RON-SWANSON-BACKEND/pull/3) in [alestor123/RON-SWANSON-BACKEND](https://github.com/alestor123/RON-SWANSON-BACKEND)
 <!--END_SECTION:activity-->
 
 
