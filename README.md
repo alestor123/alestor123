@@ -30,10 +30,10 @@
 
 ## Connect with me:
 
-<a href="https://twitter.com/alestor123"><img height="30" src="./assets/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://dev.to/alestor123"><img height="30" src="./assets/devto.png"></a>&nbsp;&nbsp;
- <a href="https://www.buymeacoffee.com/alestor123"><img height="30" src="./assets/coffee.jpg"></a>&nbsp;&nbsp;
-
+<a href="https://twitter.com/alestor123" target="blank"><img height="30" src="./assets/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://dev.to/alestor123" target="blank"><img height="30" src="./assets/devto.png"></a>&nbsp;&nbsp;
+ <a href="https://www.buymeacoffee.com/alestor123" target="blank" ><img height="30" src="./assets/coffee.jpg"></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/alestor123" target="blank"><img height="34" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/></a>
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
