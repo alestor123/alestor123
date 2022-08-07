@@ -93,6 +93,15 @@ i have a newsletter called [ < Adventures Of ClI /> ](https://alestor123.is-a.de
 ## Steaks 
 ![steaks](https://github-readme-streak-stats.herokuapp.com/?user=alestor123&&theme=dark)
  
+ <details>
+  <summary><h2>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</h2></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/alestor123/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=alestor123&padding=30'>
+  </a>
+
+</details>
+ 
 <a href="https://alestor123.is-a.dev/donate/" target="_blank">  <h2 align="center"> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png" height="25" > Support my projects</h2> </a>
 
 <a  href="https://www.buymeacoffee.com/alestor123"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee &emoji=💻&slug=alestor123&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff"></a>
