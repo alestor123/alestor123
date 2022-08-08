@@ -34,6 +34,8 @@
 <a href="https://dev.to/alestor123" target="blank"><img height="30" src="./assets/devto.png"></a>&nbsp;&nbsp;
  <a href="https://www.buymeacoffee.com/alestor123" target="blank" ><img height="30" src="./assets/coffee.jpg"></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/alestor123" target="blank"><img height="34" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/></a>
+<a href="https://stackoverflow.com/users/13139466/" target="blank"><img height="34" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"/></a>
+
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
